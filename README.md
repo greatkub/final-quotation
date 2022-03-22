@@ -14,7 +14,7 @@ Using MERN according to the following:
 - React
 - Node
 
-# final-quotation has been deploy on heroku
+# final-quotation has been deployed on heroku
 https://company-6111252.herokuapp.com/product-management
 
 
