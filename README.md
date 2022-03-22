@@ -3,9 +3,9 @@ final-quotation is web app company that allow user to manage their quotation to 
 
 # Features
 The features according to the following:
-- User can create their product list on product management, user also able to edit and delete their product lists.
-- User can add qty amount produtname to quotation table to calculate the total amount of prices.
-- User can save the quotaion table, user will see all of quotation that been saved will be on quotation management which can delete anytime that user want.
+- Users can create their product list on product management. Users also edit and delete their product lists.
+- Users can add quantity amount product names to the quotation table to calculate the total prices.
+- Users can save the quotation table. Users will see all of the quotations that have been saved will be on quotation management, which can delete anytime that the user wants.
 
 # Tech Stack
 Using MERN according to the following:
